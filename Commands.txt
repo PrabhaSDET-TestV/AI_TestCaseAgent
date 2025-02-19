@@ -1,0 +1,2 @@
+Compile your code
+After you have written your code, you need to save our file. Then go to your terminal and run the tsc <filename>.ts command to create your Node.js counterpart file. Then you can run node <filename>.js to run your transpiled file.
